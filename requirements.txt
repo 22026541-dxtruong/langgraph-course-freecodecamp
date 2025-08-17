@@ -7,3 +7,6 @@ dotenv
 typing
 chromadb
 langchain_chroma
+duckduckgo-search
+arxiv
+wikipedia
